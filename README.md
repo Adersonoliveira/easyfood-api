@@ -4,6 +4,8 @@
 
 `npm install`
 
+`npm install axios xml2js`
+
 `npm start`
 
 `npm install nodemon --save-dev` - para ambiente desenvolvimento.
